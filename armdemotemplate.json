@@ -1,0 +1,32 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentTemplate.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "storageName":{
+            "type": "string",
+            "minLength":3,
+            "maxLength":24
+        }
+    },
+    "functions": [],
+    "variables": {
+        "uniqstorgname":"[concat(parameters('storageName'),uniqueString(resourceGroup().id))]"
+    },
+    "resources": [
+        {
+            "type": "Microsoft.Storage/storageAccount",
+            "apiversion": "2021-09-01",
+            "name": "[variables('uniqstorgname')]",
+            "location": "Central India", 
+            "sku":{
+                "name":"Standard_LRS",
+                "tier":"Standard"
+            },
+            "kind":"Storagev2",
+            "properties":{
+                "supportsHttpsTrafficOnly":true
+            }
+        }
+    ],
+    "outputs": {}
+}
