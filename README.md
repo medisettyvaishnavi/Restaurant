@@ -91,7 +91,7 @@ Restaurant faces challenges in reaching and engaging customers effectively due t
 - **Project Video**: [Project Video](https://drive.google.com/file/d/1RSElw9IsqCSFR2RPHLPTJIvSfq79zIL1/view?usp=sharing)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](./ARMproject/resourcegroupcreation.png)
+  - ![ResourceGroup Screenshot](resourcegroupcreation.png)
     
   **ResourceGroup Deployment Command Output**
   - ![RSG-Deployment-output Screenshot](./ARMproject/deployment_output_1.png)
