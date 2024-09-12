@@ -87,44 +87,44 @@ Restaurant faces challenges in reaching and engaging customers effectively due t
 
 ## Live Website and Resources
 
-- **Website Link**: [Closet.AI](https://github.com/medisettyvaishnavi/Restaurant.git)
+- **Website Link**: [Restaurent](https://github.com/medisettyvaishnavi/Restaurant.git)
 - **Project Video**: [Project Video](https://drive.google.com/file/d/1RSElw9IsqCSFR2RPHLPTJIvSfq79zIL1/view?usp=sharing)
 - **Screenshots**:
   **Created Resource Group Screenshot**
-  - ![ResourceGroup Screenshot](resourcegroupcreation.png)
+  - ![ResourceGroup Screenshot](resourcegroup.png)
     
   **ResourceGroup Deployment Command Output**
-  - ![RSG-Deployment-output Screenshot](./ARMproject/deployment_output_1.png)
+  - ![RSG-Deployment-output Screenshot](deployment_output_1.png)
 
   **VNet Subnets RSG ARM Template Output**
-  - ![VNetDeploymentoutputSS Screenshot](./ARMproject/sub_net.png)
+  - ![VNetDeploymentoutputSS Screenshot](sub_net.png)
 
    **Created VNet Screenshot** 
-  - ![VNetSS Screenshot](./ARMproject/v_net_ss.png)
+  - ![VNetSS Screenshot](v_net_ss.png)
 
   **Created Subnets Screenshot**
-  - ![SubnetSS Screenshot](./ARMproject/sub_net.png)
+  - ![SubnetSS Screenshot](sub_net.png)
 
    **Deployed VM 1 Screenshot**
-  - ![VM1SS Screenshot](./ARMproject/vm_1.png)
+  - ![VM1SS Screenshot](vm_1.png)
 
   **Deployed VM 2 Screenshot**
-  - ![VM2SS Screenshot](./ARMproject/vm_2.png)
+  - ![VM2SS Screenshot](vm_2.png)
 
   **Deployed LoadBalancer Screenshot**
-  - ![LoadbalancerSS Screenshot](./ARMproject/load_balancer.png)
+  - ![LoadbalancerSS Screenshot](load_balancer.png)
 
   **Website Home Page Screenshot**
-  - ![RestaurantHomepage Screenshot](./ARMproject/home_page.png)
+  - ![RestaurantHomepage Screenshot](home_page.png)
  
   **Why Choose Us Page after complete Deployment**
-  - ![WhyChooseUsPage Screenshot](./ARMproject/why_choose_us.png)
+  - ![WhyChooseUsPage Screenshot](why_choose_us.png)
 
   **Explore Menu Page after complete Deployment**
-  - ![ExploreMenuPage Screenshot](./ARMproject/explore_menu.png)
+  - ![ExploreMenuPage Screenshot](explore_menu.png)
 
   **Delivery and Follow Page after complete Deployment**
-  - ![DeliveryandFollow Screenshot](./ARMproject/follow_us.png)
+  - ![DeliveryandFollow Screenshot](follow_us.png)
 
 
 
